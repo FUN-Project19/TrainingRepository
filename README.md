@@ -9,6 +9,7 @@ Project19 Twitterプロジェクトにおいて、gitとGitHubの使い方を練
 Eclipseを起動し、ツールバーの _Window_ から _Open Perspective_ を選び _Other_ を選択します。  
 開いたウィンドウから _Git_ を選択して _OK_ を押します。  
 Eclipseの右上にあるパースペクティブ一覧に __Git__ が表示されればOKです。  
+![Imgur](http://i.imgur.com/46dtOXh.png)
 
 #### ・開発環境に __Eclipse__ 以外を利用している場合
 [Git for Windows](https://msysgit.github.io/) などをダウンロードして下さい。  
