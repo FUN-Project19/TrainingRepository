@@ -106,3 +106,7 @@ Googleで検索をすれば解決策はいくらでも出てくるので各自�
 
 [サルでも分かるGit入門](http://www.backlog.jp/git-guide/)  
 項目ごとに使い方を図解して解説しているサイトなのでサルでも分かります（？）
+
+[Shinpeim/introduction-to-git](https://github.com/Shinpeim/introduction-to-git/blob/master/README.md)
+CUI版のGitの使い方を解説している、これまたGitHubのマークダウンで記述された解説サイトです。  
+Eclipse以外で（特にLinux環境上で）開発する際には参考になると思います。
